@@ -1,0 +1,18 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+seaborn==0.13.2
+jupyter==1.0.0
+
+---
+🧠 Explanation:
+
+pandas → for data cleaning and analysis
+
+numpy → for numerical computation
+
+matplotlib → for visualizations
+
+seaborn → for prettier charts
+
+jupyter/Collab → for running .ipynb notebooks
